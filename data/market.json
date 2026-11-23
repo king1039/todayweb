@@ -4,105 +4,105 @@
       "code": "",
       "icon": "🇺🇸",
       "name": "标普500",
-      "value": 6910.39,
-      "change": -3.7,
-      "changePercent": -3.7,
+      "value": 7252.52,
+      "change": 4.95,
+      "changePercent": 4.95,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-20 16:35:54"
+      "sourceDate": "2026-11-23 14:24:59"
     },
     {
       "code": "",
       "icon": "🇺🇸",
       "name": "纳斯达克100",
-      "value": 25028.98,
-      "change": -5.61,
-      "changePercent": -5.61,
+      "value": 26766.6,
+      "change": 6.94,
+      "changePercent": 6.94,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-20 17:15:59"
+      "sourceDate": "2026-11-23 14:24:59"
     },
     {
       "code": "",
       "icon": "🇺🇸",
       "name": "道琼斯",
-      "value": 48147.33,
-      "change": -1.93,
-      "changePercent": -1.93,
+      "value": 49722.11,
+      "change": 3.27,
+      "changePercent": 3.27,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-20 16:35:59"
+      "sourceDate": "2026-11-23 14:25:00"
     },
     {
       "code": "",
       "icon": "🇨🇳",
       "name": "上证指数",
-      "value": 3526.67,
-      "change": -0.2,
-      "changePercent": -0.2,
+      "value": 3538.95,
+      "change": 0.15,
+      "changePercent": 0.15,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261123144648"
+      "sourceDate": "20261123161427"
     },
     {
       "code": "",
       "icon": "🇨🇳",
       "name": "沪深300",
-      "value": 3946.72,
-      "change": -0.2,
-      "changePercent": -0.2,
+      "value": 3958.29,
+      "change": 0.09,
+      "changePercent": 0.09,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261123144648"
+      "sourceDate": "20261123161409"
     },
     {
       "code": "",
       "icon": "🇨🇳",
       "name": "科创50",
-      "value": 1225.4,
-      "change": -0.46,
-      "changePercent": -0.46,
+      "value": 1227.89,
+      "change": -0.26,
+      "changePercent": -0.26,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261123144648"
+      "sourceDate": "20261123161409"
     },
     {
       "code": "",
       "icon": "🟡",
       "name": "国际黄金",
-      "value": 3627.15,
-      "change": 2.62,
-      "changePercent": 2.62,
+      "value": 3653.65,
+      "change": 3.37,
+      "changePercent": 3.37,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-23"
+      "sourceDate": "2026-11-24"
     },
     {
       "code": "AU9999",
       "icon": "🟡",
       "name": "国内黄金",
-      "value": 778.9233954472835,
+      "value": 784.7554721358354,
       "change": null,
       "changePercent": null,
       "simple": "国际现货折算",
@@ -110,21 +110,21 @@
       "history": [],
       "historyLabels": [],
       "source": "Gold-API + ExchangeRate-API",
-      "sourceDate": "2026-11-23T06:46:41Z"
+      "sourceDate": "2026-11-23T19:25:12Z"
     },
     {
       "code": "",
       "icon": "🛢️",
       "name": "原油",
-      "value": 83.4,
-      "change": -0.01,
-      "changePercent": -0.01,
+      "value": 80.09,
+      "change": -3.98,
+      "changePercent": -3.98,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-23"
+      "sourceDate": "2026-11-24"
     },
     {
       "code": "USDCNY",
@@ -141,5 +141,5 @@
       "sourceDate": "Mon, 23 Nov 2026 00:02:32 +0000"
     }
   ],
-  "updatedAt": "2026-11-23T06:46:53.054Z"
+  "updatedAt": "2026-11-23T19:25:20.596Z"
 }
