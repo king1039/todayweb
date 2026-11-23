@@ -16,7 +16,7 @@ npm start
 
 生活页数据来自国家统计局公开发布页、世界银行公开 API 和公开行情接口，包含 CPI、人口、出生率、死亡率、失业率、人均 GDP、油价及汇率；房价只显示广州数据，未能核验时会明确提示暂未获取。无法可靠核验的指标不会伪造数值。
 
-GitHub Actions 会每天自动刷新数据：北京时间 08:00 和 15:30。每次运行后会更新 `data/market.json` 和 `data/life.json`，网站直接读取这两个文件，不依赖微信或云函数。也可以在 Actions 页面手动运行“Refresh data”。
+GitHub Actions 会在推送到 `main` 时部署网站，并每天北京时间 08:00 和 15:30 刷新数据。每次定时运行都会更新 `data/market.json` 和 `data/life.json` 并部署最新网站，也可以在 Actions 页面手动运行工作流。
 
 ## 本地刷新数据
 
@@ -25,4 +25,6 @@ npm run refresh:data
 ```
 
 GitHub Actions 需要具有仓库内容写入权限，才能提交自动更新的数据快照。
+
+首次部署前，在 GitHub 仓库的 **Settings → Pages → Build and deployment** 中将 **Source** 设为 **GitHub Actions**。部署地址为 `https://king1039.github.io/todayweb/`。
 

@@ -5,6 +5,7 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node server.js",
+    "build": "node scripts/build-site.js",
     "refresh:data": "node scripts/refresh-data.js"
   }
 }
