@@ -1,0 +1,240 @@
+{
+  "data": [
+    {
+      "id": "house",
+      "icon": "🏠",
+      "name": "房价",
+      "subtitle": "广州 · 新建住宅",
+      "value": "广州数据暂未获取",
+      "change": null,
+      "simple": "只展示广州数据，暂未获取到广州单独数据",
+      "period": "广州数据待解析",
+      "source": "国家统计局",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965836.html",
+      "history": [],
+      "historyLabels": []
+    },
+    {
+      "id": "cpi",
+      "icon": "🛒",
+      "name": "CPI 物价",
+      "subtitle": "全国居民消费价格",
+      "value": "0.7%",
+      "change": 0.7,
+      "simple": "全国居民消费价格同比上涨",
+      "period": "2026年10月",
+      "source": "国家统计局",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965795.html",
+      "history": [
+        0.7
+      ],
+      "historyLabels": [
+        "2026-10"
+      ]
+    },
+    {
+      "id": "population",
+      "icon": "👥",
+      "name": "人口总数",
+      "subtitle": "年末人口",
+      "value": "14.0658亿",
+      "change": -0.16962685640270408,
+      "simple": "人口数据为公开年度统计",
+      "period": "2025",
+      "source": "世界银行公开数据",
+      "sourceUrl": "https://api.worldbank.org/v2/country/CN/indicator/SP.POP.TOTL",
+      "history": [
+        1387790000,
+        1396215000,
+        1402760000,
+        1407745000,
+        1411100000,
+        1412360000,
+        1412175000,
+        1410710000,
+        1408975000,
+        1406585000
+      ],
+      "historyLabels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ]
+    },
+    {
+      "id": "birth",
+      "icon": "👶",
+      "name": "出生率",
+      "subtitle": "人口自然变化",
+      "value": "6.77‰",
+      "change": 5.946791862284819,
+      "simple": "出生率为每千人出生人数",
+      "period": "2024",
+      "source": "世界银行公开数据",
+      "sourceUrl": "https://api.worldbank.org/v2/country/CN/indicator/SP.DYN.CBRT.IN",
+      "history": [
+        13.57,
+        12.64,
+        10.86,
+        10.41,
+        8.52,
+        7.52,
+        6.77,
+        6.39,
+        6.77
+      ],
+      "historyLabels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    {
+      "id": "death",
+      "icon": "🧓",
+      "name": "死亡率",
+      "subtitle": "人口自然变化",
+      "value": "7.76‰",
+      "change": -1.397712833545112,
+      "simple": "死亡率为每千人死亡人数",
+      "period": "2024",
+      "source": "世界银行公开数据",
+      "sourceUrl": "https://api.worldbank.org/v2/country/CN/indicator/SP.DYN.CDRT.IN",
+      "history": [
+        7.04,
+        7.06,
+        7.08,
+        7.09,
+        7.07,
+        7.18,
+        7.37,
+        7.87,
+        7.76
+      ],
+      "historyLabels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024"
+      ]
+    },
+    {
+      "id": "unemployment",
+      "icon": "👥",
+      "name": "就业",
+      "subtitle": "总失业率（世界银行估算）",
+      "value": "4.62%",
+      "change": 0.5446623093681995,
+      "simple": "为国际口径估算值，不等同于城镇调查失业率",
+      "period": "2025",
+      "source": "世界银行公开数据",
+      "sourceUrl": "https://api.worldbank.org/v2/country/CN/indicator/SL.UEM.TOTL.ZS",
+      "history": [
+        4.56,
+        4.47,
+        4.31,
+        4.56,
+        5,
+        4.55,
+        4.98,
+        4.67,
+        4.59,
+        4.615
+      ],
+      "historyLabels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ]
+    },
+    {
+      "id": "income",
+      "icon": "🪙",
+      "name": "居民收入",
+      "subtitle": "人均 GDP（公开代理指标）",
+      "value": "$13,862",
+      "change": 4.279312598491387,
+      "simple": "此项为人均 GDP，不是居民可支配收入",
+      "period": "2025",
+      "source": "世界银行公开数据",
+      "sourceUrl": "https://api.worldbank.org/v2/country/CN/indicator/NY.GDP.PCAP.CD",
+      "history": [
+        8254.86859320357,
+        8979.67652709856,
+        10085.6638148819,
+        10342.9009524335,
+        10627.4637989619,
+        12887.4357242941,
+        12970.6056414327,
+        12951.1782397043,
+        13293.1162269366,
+        13861.970224368
+      ],
+      "historyLabels": [
+        "2016",
+        "2017",
+        "2018",
+        "2019",
+        "2020",
+        "2021",
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ]
+    },
+    {
+      "id": "fuel",
+      "icon": "⛽",
+      "name": "油价",
+      "subtitle": "WTI 国际原油参考",
+      "value": "$83.37/桶",
+      "change": -0.04,
+      "simple": "用于参考，不等同于国内92#汽油零售价",
+      "period": "2026-11-23",
+      "source": "腾讯行情公开接口",
+      "history": [],
+      "historyLabels": []
+    },
+    {
+      "id": "usd",
+      "icon": "💱",
+      "name": "人民币汇率",
+      "subtitle": "美元 / 人民币",
+      "value": "6.6813",
+      "change": null,
+      "simple": "公开中间参考汇率",
+      "period": "Mon, 23 Nov 2026 00:02:32 +0000",
+      "source": "ExchangeRate-API",
+      "sourceUrl": "https://open.er-api.com/v6/latest/USD",
+      "history": [],
+      "historyLabels": []
+    }
+  ],
+  "updatedAt": "2026-11-23T06:46:54.721Z"
+}

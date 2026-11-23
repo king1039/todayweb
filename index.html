@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#f5faff" />
+    <title>今天有变化</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="#market" aria-label="今天有变化首页">
+        <span class="brand-mark">今</span>
+        <span class="brand-name">今天有变化</span>
+      </a>
+      <nav class="top-tabs" aria-label="主导航">
+        <button class="top-tab active" data-tab="market" type="button">首页</button>
+        <button class="top-tab" data-tab="life" type="button">生活</button>
+      </nav>
+    </header>
+
+    <main id="app" class="app-shell"></main>
+
+    <div id="modal-root"></div>
+    <script src="./app.js"></script>
+  </body>
+</html>
