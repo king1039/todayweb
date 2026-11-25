@@ -4,43 +4,43 @@
       "code": "",
       "icon": "🇺🇸",
       "name": "标普500",
-      "value": 7201.09,
-      "change": -0.5,
-      "changePercent": -0.5,
+      "value": 7133.68,
+      "change": -0.94,
+      "changePercent": -0.94,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-24 16:54:10"
+      "sourceDate": "2026-11-25 13:06:40"
     },
     {
       "code": "",
       "icon": "🇺🇸",
       "name": "纳斯达克100",
-      "value": 26214.17,
-      "change": -1.99,
-      "changePercent": -1.99,
+      "value": 25695.4,
+      "change": -1.98,
+      "changePercent": -1.98,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-24 17:15:59"
+      "sourceDate": "2026-11-25 13:06:40"
     },
     {
       "code": "",
       "icon": "🇺🇸",
       "name": "道琼斯",
-      "value": 50018.7,
-      "change": 0.85,
-      "changePercent": 0.85,
+      "value": 50032.42,
+      "change": 0.03,
+      "changePercent": 0.03,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-24 16:54:25"
+      "sourceDate": "2026-11-25 13:06:40"
     },
     {
       "code": "",
@@ -54,7 +54,7 @@
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261125152000"
+      "sourceDate": "20261125161427"
     },
     {
       "code": "",
@@ -68,7 +68,7 @@
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261125152000"
+      "sourceDate": "20261125161409"
     },
     {
       "code": "",
@@ -82,27 +82,27 @@
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261125152000"
+      "sourceDate": "20261125161409"
     },
     {
       "code": "",
       "icon": "🟡",
       "name": "国际黄金",
-      "value": 3520.43,
-      "change": -1,
-      "changePercent": -1,
+      "value": 3533.83,
+      "change": -0.62,
+      "changePercent": -0.62,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-25"
+      "sourceDate": "2026-11-26"
     },
     {
       "code": "AU9999",
       "icon": "🟡",
       "name": "国内黄金",
-      "value": 755.5590023620769,
+      "value": 757.9207952083351,
       "change": null,
       "changePercent": null,
       "simple": "国际现货折算",
@@ -110,21 +110,21 @@
       "history": [],
       "historyLabels": [],
       "source": "Gold-API + ExchangeRate-API",
-      "sourceDate": "2026-11-25T07:20:15Z"
+      "sourceDate": "2026-11-25T18:06:46Z"
     },
     {
       "code": "",
       "icon": "🛢️",
       "name": "原油",
-      "value": 80.5,
-      "change": -1.88,
-      "changePercent": -1.88,
+      "value": 83.71,
+      "change": 2.03,
+      "changePercent": 2.03,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "2026-11-25"
+      "sourceDate": "2026-11-26"
     },
     {
       "code": "USDCNY",
@@ -141,5 +141,5 @@
       "sourceDate": "Wed, 25 Nov 2026 00:02:31 +0000"
     }
   ],
-  "updatedAt": "2026-11-25T07:20:16.732Z"
+  "updatedAt": "2026-11-25T18:06:50.616Z"
 }

@@ -19,13 +19,18 @@
       "icon": "🛒",
       "name": "CPI 物价",
       "subtitle": "全国居民消费价格",
-      "value": "数据核验中",
-      "change": null,
-      "simple": "国家统计局公开页面暂未取到",
-      "period": "暂无",
+      "value": "0.7%",
+      "change": 0.7,
+      "simple": "全国居民消费价格同比上涨",
+      "period": "2026年10月",
       "source": "国家统计局",
-      "history": [],
-      "historyLabels": []
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965795.html",
+      "history": [
+        0.7
+      ],
+      "historyLabels": [
+        "2026-10"
+      ]
     },
     {
       "id": "population",
@@ -208,10 +213,10 @@
       "icon": "⛽",
       "name": "油价",
       "subtitle": "WTI 国际原油参考",
-      "value": "$80.52/桶",
-      "change": -1.86,
+      "value": "$83.72/桶",
+      "change": 2.03,
       "simple": "用于参考，不等同于国内92#汽油零售价",
-      "period": "2026-11-25",
+      "period": "2026-11-26",
       "source": "腾讯行情公开接口",
       "history": [],
       "historyLabels": []
@@ -231,5 +236,5 @@
       "historyLabels": []
     }
   ],
-  "updatedAt": "2026-11-25T07:20:41.853Z"
+  "updatedAt": "2026-11-25T18:07:15.868Z"
 }
