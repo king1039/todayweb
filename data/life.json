@@ -8,9 +8,8 @@
       "value": "广州数据暂未获取",
       "change": null,
       "simple": "只展示广州数据，暂未获取到广州单独数据",
-      "period": "广州数据待解析",
+      "period": "暂无",
       "source": "国家统计局",
-      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965836.html",
       "history": [],
       "historyLabels": []
     },
@@ -19,18 +18,13 @@
       "icon": "🛒",
       "name": "CPI 物价",
       "subtitle": "全国居民消费价格",
-      "value": "0.7%",
-      "change": 0.7,
-      "simple": "全国居民消费价格同比上涨",
-      "period": "2026年10月",
+      "value": "数据核验中",
+      "change": null,
+      "simple": "国家统计局公开页面暂未取到",
+      "period": "暂无",
       "source": "国家统计局",
-      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261109_1965795.html",
-      "history": [
-        0.7
-      ],
-      "historyLabels": [
-        "2026-10"
-      ]
+      "history": [],
+      "historyLabels": []
     },
     {
       "id": "population",
@@ -213,10 +207,10 @@
       "icon": "⛽",
       "name": "油价",
       "subtitle": "WTI 国际原油参考",
-      "value": "$86.04/桶",
-      "change": 2.82,
+      "value": "$82.70/桶",
+      "change": -1.17,
       "simple": "用于参考，不等同于国内92#汽油零售价",
-      "period": "2026-11-27",
+      "period": "2026-11-28",
       "source": "腾讯行情公开接口",
       "history": [],
       "historyLabels": []
@@ -236,5 +230,5 @@
       "historyLabels": []
     }
   ],
-  "updatedAt": "2026-11-27T07:04:15.155Z"
+  "updatedAt": "2026-11-27T17:36:08.972Z"
 }
