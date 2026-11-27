@@ -46,51 +46,51 @@
       "code": "",
       "icon": "🇨🇳",
       "name": "上证指数",
-      "value": 3476.88,
-      "change": 0.01,
-      "changePercent": 0.01,
+      "value": 3606.49,
+      "change": 3.73,
+      "changePercent": 3.73,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261126161427"
+      "sourceDate": "20261127150300"
     },
     {
       "code": "",
       "icon": "🇨🇳",
       "name": "沪深300",
-      "value": 3900.55,
-      "change": 0.06,
-      "changePercent": 0.06,
+      "value": 4063.06,
+      "change": 4.17,
+      "changePercent": 4.17,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261126161409"
+      "sourceDate": "20261127150300"
     },
     {
       "code": "",
       "icon": "🇨🇳",
       "name": "科创50",
-      "value": 1169.99,
-      "change": -1.36,
-      "changePercent": -1.36,
+      "value": 1346.25,
+      "change": 15.07,
+      "changePercent": 15.07,
       "simple": "",
       "simpleText": "",
       "history": [],
       "historyLabels": [],
       "source": "腾讯行情",
-      "sourceDate": "20261126161409"
+      "sourceDate": "20261127150300"
     },
     {
       "code": "",
       "icon": "🟡",
       "name": "国际黄金",
-      "value": 3567.56,
-      "change": -0.58,
-      "changePercent": -0.58,
+      "value": 3654.48,
+      "change": 2.47,
+      "changePercent": 2.47,
       "simple": "",
       "simpleText": "",
       "history": [],
@@ -102,7 +102,7 @@
       "code": "AU9999",
       "icon": "🟡",
       "name": "国内黄金",
-      "value": 765.9250431563812,
+      "value": 784.1668299281578,
       "change": null,
       "changePercent": null,
       "simple": "国际现货折算",
@@ -110,15 +110,15 @@
       "history": [],
       "historyLabels": [],
       "source": "Gold-API + ExchangeRate-API",
-      "sourceDate": "2026-11-26T17:50:18Z"
+      "sourceDate": "2026-11-27T07:03:49Z"
     },
     {
       "code": "",
       "icon": "🛢️",
       "name": "原油",
-      "value": 84.75,
-      "change": 1.28,
-      "changePercent": 1.28,
+      "value": 86.04,
+      "change": 2.82,
+      "changePercent": 2.82,
       "simple": "",
       "simpleText": "",
       "history": [],
@@ -130,7 +130,7 @@
       "code": "USDCNY",
       "icon": "💵",
       "name": "美元/人民币",
-      "value": 6.683199,
+      "value": 6.674963,
       "change": null,
       "changePercent": null,
       "simple": "公开汇率",
@@ -138,8 +138,8 @@
       "history": [],
       "historyLabels": [],
       "source": "ExchangeRate-API",
-      "sourceDate": "Thu, 26 Nov 2026 00:02:31 +0000"
+      "sourceDate": "Fri, 27 Nov 2026 00:02:31 +0000"
     }
   ],
-  "updatedAt": "2026-11-26T17:50:37.845Z"
+  "updatedAt": "2026-11-27T07:03:57.256Z"
 }
