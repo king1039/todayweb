@@ -8,8 +8,9 @@
       "value": "广州数据暂未获取",
       "change": null,
       "simple": "只展示广州数据，暂未获取到广州单独数据",
-      "period": "暂无",
+      "period": "广州数据待解析",
       "source": "国家统计局",
+      "sourceUrl": "https://www.stats.gov.cn/sj/zxfb/202611/t20261116_1965836.html",
       "history": [],
       "historyLabels": []
     },
@@ -230,5 +231,5 @@
       "historyLabels": []
     }
   ],
-  "updatedAt": "2026-11-28T06:38:12.311Z"
+  "updatedAt": "2026-11-28T16:21:04.842Z"
 }
